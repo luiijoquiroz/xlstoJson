@@ -1,0 +1,19 @@
+{
+  "name": "scriptexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xlstoJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./xlstoJson.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "g": "^2.0.1",
+    "log-node": "^7.0.0",
+    "xls": "^0.5.1",
+    "xls-parser": "^3.0.1"
+  }
+}

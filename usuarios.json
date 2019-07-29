@@ -1,0 +1,2401 @@
+[
+    {
+        "usuario": "HZUNIGA",
+        "nombre": "HECTOR ANTONIO",
+        "apellido": "ZUÑIGA ORDENES",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "10040147-9",
+        "password": "$2a$08$CLBh2Nq1JCWwij2GE078HuzOME0D6zAwiUPqlJybVWfjR29SAoSDG",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JPRADENA",
+        "nombre": "JAIME ANTONIO",
+        "apellido": "PRADENAS CHACON",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "12654397-2",
+        "password": "$2a$08$Fu4Rqr4AFh5LggMaMri3iuzoXG/zVAK.oXrDRUpbqxnFEMMsVT2Xm",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "DCVELASQUEZ",
+        "nombre": "DANIEL DEL CARMEN",
+        "apellido": "VELASQUEZ FREDES",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "14002693-K",
+        "password": "$2a$08$yQVTyC7phG.uXCQLVCJfCe07nh9aiD0U4GDesl0dO26pkCCA4YSFu",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EKOSKY",
+        "nombre": "EILYN DAMARIS",
+        "apellido": "KOSKY RIQUELME",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "16646126-K",
+        "password": "$2a$08$UA3aEzg9OOK6Arq.DOnnAOzyonI0OHVB6TpCHZgpR71NJOTz6l.Pu",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "LARIASS",
+        "nombre": "LUIS PATRICIO",
+        "apellido": "ARIAS SERRANO",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "14010489-2",
+        "password": "$2a$08$LTVSSCwplHQdrh6W1waeKuGF/XZEM3xydECZfKj/MRmIv3C94xc2C",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "FVARGAS",
+        "nombre": "FRANCIA DEL PILAR",
+        "apellido": "VARGAS QUIJADA",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15405714-5",
+        "password": "$2a$08$6ELjafe9RLZCJKiVwOvcQep9dpuHN07iafdTTDZ6QgZtbbW9uI5dq",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "LFUENTESF",
+        "nombre": "LUIS ALEJANDRO",
+        "apellido": "FUENTES FUENTES",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "19403931-K",
+        "password": "$2a$08$3.x.VD3ZC15.S9K5/JckZuYb4LkvC90POI3cHRidAZh1Eff2drbQC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JMANZO",
+        "nombre": "JOSE LEONARDO",
+        "apellido": "MANZO SERRANO",
+        "email": "oplamanga@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "19069629-4",
+        "password": "$2a$08$6rquZCBllO5rk0j9O4tcVe3YggKgHnMyIxhRkP341hb.eHVLLGWXC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JFREDES",
+        "nombre": "JOHNY JOSE",
+        "apellido": "FREDES ARIAS",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "17815960-7",
+        "password": "$2a$08$RQpnmHkheHKfgEvnVCelwe.pF//Ysx.30FMPVky6NHDwCuD66/..O",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "BARAMIREZ",
+        "nombre": "BRYAN ALEJANDRO",
+        "apellido": "RAMIREZ ARIAS",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "20311832-5",
+        "password": "$2a$08$IJ4GGb88W3DRmszS2fjLrOhupjsrkd3g2LA5BJoa.0NBA/RylWmXm",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "MFARIASP",
+        "nombre": "MARIA VERONICA",
+        "apellido": "FARIAS PEREZ",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "18041124-0",
+        "password": "$2a$08$Ehhmv9oG4GdOtgpyrNRuN.MGq9xCVQtEL2AOhMitV25d3NECf.u76",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "LFUENTESA",
+        "nombre": "LUIS ALBERTO",
+        "apellido": "FUENTES ABARCA",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "12958266-9",
+        "password": "$2a$08$IbGyGNMHRoX9tIsiafcKa.HY1gZDSTlQIiilVt1REIgZzLTGkR.lq",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "ECATRIMAN",
+        "nombre": "ERWIN ANDRES",
+        "apellido": "CATRIMAN CATRIMAN",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "17780703-6",
+        "password": "$2a$08$JwdwGzvHlGbFlykcF0D68eR6QPD8wCzLUsSbt2qq9FVrQDS/u/NWW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "ETOROS",
+        "nombre": "EVARISTO ANDRES",
+        "apellido": "TORO SERRANO",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "18212404-4",
+        "password": "$2a$08$JtpSZ7IHGg9xCw8PVz/93OY/gCtMZ81u6tDx.QetTKYjj3ns3bpj2",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "NHUERTA",
+        "nombre": "NICOLAS ENRIQUE",
+        "apellido": "HUERTA VILLAVICENCIO",
+        "email": "opmaitenlahue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "19069484-4",
+        "password": "$2a$08$ixo5Gs9cZJcIGGCzfN4A8.9mY4SO.3IUKpNlpIKt3LtuMP1dTjg2q",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "RCBUSTOS",
+        "nombre": "ROBERTO CARLOS",
+        "apellido": "BUSTOS GRANIZO",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "15623567-9",
+        "password": "$2a$08$lKm41WXNtdKerATdQdmN1.rB.OjM4M4/BWCbgKY4YXFA6ncz7Xw0u",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "GLOPEZ",
+        "nombre": "GRACE DENISSE",
+        "apellido": "LOPEZ PALACIOS",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "16856341-8",
+        "password": "$2a$08$LBLjCUWPWDooSFg1xvQIQ.Fztkpok2TWlQgDwseJHXiioRYp1Yj32",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "CSANCHEZA",
+        "nombre": "CECILIA SIOMARA",
+        "apellido": "SANCHEZ ARANDA",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "15829506-7",
+        "password": "$2a$08$hVdTgc00xOtjGWh/jg0ZqOKnkYvteh0.476goOjVcZ3WW8op2Ina6",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JBUSTOSJ",
+        "nombre": "JOSE SANTOS",
+        "apellido": "BUSTOS JORQUERA",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "10914253-0",
+        "password": "$2a$08$8yyQIi56aOKkjfWU8Vvrc.0LXCLceuzzqVCb.wgTb6LV5Dg2XMhYK",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "OZUNIGA",
+        "nombre": "OSCAR MAURICIO",
+        "apellido": "ZUÑIGA GRANIZO",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "11396449-9",
+        "password": "$2a$08$AhkJGMqP1.bfhgvxBbcioOYgF6ZLBo0AkRRtgz2m52kbtjXABGNfm",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EZUNIGAA",
+        "nombre": "ENRIQUE DEL CARMEN",
+        "apellido": "ZUÑIGA ACEVEDO",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15404540-6",
+        "password": "$2a$08$7sbPzcz/FZ7yYcuzLYTk/uj4mI.4IqaczOIgcsNofkiDe4iE7AVw2",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "FVELIZ",
+        "nombre": "FELIPE HUMBERTO",
+        "apellido": "VELIZ FARIAS",
+        "email": "opeplantatantehue@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "17426940-8",
+        "password": "$2a$08$jjFSg5PRko4HjoS0AoIiguYkwFQW9xQXvgjwsq5zgM9l./.GvxetC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "GMURILLO",
+        "nombre": "GIOVANNA PAOLA",
+        "apellido": "MURILLO MIRANDA",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "10833129-1",
+        "password": "$2a$08$54hu3XGWc05IuMKBCW5SF.dXMX5jczVPXzolbC7qUWvLiz5h309iW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "FGALLEGUILLO",
+        "nombre": "FRANCO EDUARDO",
+        "apellido": "GALLEGUILLOS MURILLO",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "17968063-7",
+        "password": "$2a$08$G8cijLheXAbR62X9uSxY7uby6aGsZpIj50BOCz6GmbzO8XdAgHfYO",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "DGUTIERREZ",
+        "nombre": "DAMIAN ANDRES",
+        "apellido": "GUTIERREZ ESPINOZA",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "16004067-K",
+        "password": "$2a$08$WVrHRS2JY/UveAKsQZO8GeO89lim9VJINWvcr2EXK2P7nUcDk.ahC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "CGALVEZF",
+        "nombre": "CRISTIAN FREDY",
+        "apellido": "GALVEZ FARIAS",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "10487261-1",
+        "password": "$2a$08$1.2bEJmFvPcqv0pJVnOj7eSZdcedZOl7w8jhGyOaX/t5DyN0CILj2",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "PPALACIOS",
+        "nombre": "PABLO ANDRES",
+        "apellido": "PALACIOS ZUÑIGA",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "14246749-6",
+        "password": "$2a$08$2XQyu4/zjqMQ3PLAihK7OO5D/0zFhxqi5CuP6bdIj6yUF9.2NPfyq",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JAROS",
+        "nombre": "JUAN SEBASTIAN",
+        "apellido": "AROS ARANDA",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16107538-8",
+        "password": "$2a$08$qIN64avQJhpXs3ahxMKgMOXGrpskAoMxXcB3OCoaBQNZ1cBTk1MPe",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "CCORRALES",
+        "nombre": "CAROLINA ANTONIETA",
+        "apellido": "CORRALES LANDAETA",
+        "email": "opvaldebenito@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "18495991-7",
+        "password": "$2a$08$6pqz0zSoyyZDkUsC.QyCTe5oQ/4EXehS5JR2EGLqAhmjzQITcwz/C",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "LIFAUNDEZ",
+        "nombre": "LIDIA IVONNE",
+        "apellido": "FAUNDEZ NAVARRETE",
+        "email": "",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "13289642-9",
+        "password": "$2a$08$zCKVS35feJImbEVFsCBynONNB7v6ey5ucQBm2SwqXOZJToSoIz0YO",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EYGARRIDO",
+        "nombre": "ELIZABETH YOLANDA",
+        "apellido": "GARRIDO DONOSO",
+        "email": "",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "15115590-1",
+        "password": "$2a$08$q/sDNiPrKxPYjrOKDu/jn..ZYkvGZlJAuw8X4egofnb.sS2tYqUQK",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "DOVALLE",
+        "nombre": "DANIEL HUMBERTO",
+        "apellido": "OVALLE PINO",
+        "email": "",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "18221519-8",
+        "password": "$2a$08$ep0fGpAFN0xGtpXU7l/pC.1VH6qEJr6pHN10YThC5tfHzv7zV1tsq",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "MEVIDAL",
+        "nombre": "MARIA ELIANA",
+        "apellido": "VIDAL CARREÑO",
+        "email": "",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "19216949-6",
+        "password": "$2a$08$HJmP/KS74bY38OeXtEGun.tIYdqg4lXoAi54kyvmvmYz0D4szOadS",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JLRAMIREZ",
+        "nombre": "JOSE LUIS",
+        "apellido": "RAMIREZ MIRANDA",
+        "email": "",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "19261622-0",
+        "password": "$2a$08$dl0Z/U4qVDPlzsZ.mLexP.T6e80nosYGj534JDprS56eXBLoCp56m",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JFPINO",
+        "nombre": "JOSE FERNANDO",
+        "apellido": "PINO CACERES",
+        "email": "",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "15523429-6",
+        "password": "$2a$08$q.xa6ZKIux3Wz1/3f7kH3ujPweuswF8.cEOMA7Hrd.qUCZUJcmkla",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "RRETAMALB",
+        "nombre": "ROBINSON ARTEMIO",
+        "apellido": "RETAMAL BUSTAMANTE",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "13598544-9",
+        "password": "$2a$08$lQzLEwRVMgsE1ygFkLYJEOpbZdQrJjlji2v8ocNSXh93CwGuMgCDW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "MREYESD",
+        "nombre": "MARIA LORENA",
+        "apellido": "REYES DIAZ",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15510517-8",
+        "password": "$2a$08$GYifwGEOknr/BfvjZkVmquHpDa/P2sTVDltbg5RjfR1H11VdVXesu",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "PADIAZO",
+        "nombre": "PEDRO ANTONIO",
+        "apellido": "DIAZ OSORIO",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16240310-9",
+        "password": "$2a$08$DOFlAgZQse84NEsrEJwQIOlhbRRExcsTRpwZ1sDh4FBEfsc0DoslO",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JVIDALM",
+        "nombre": "JAVIERA PAZ",
+        "apellido": "VIDAL HIDALGO",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "17360819-5",
+        "password": "$2a$08$VvY8d2PRsJqrNblV4yRqcOuqAaWvKWkkbsLaj1bXxvpfLYG5w.dPW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "CNUNEZC",
+        "nombre": "CAROL EDITH",
+        "apellido": "NUÑEZ CRUZ",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "17360899-3",
+        "password": "$2a$08$CM5fM5LLeRcEyLhMjuF0eOqrWLesM/G2xnjeTtZ3cNRIsXwAYpoVC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EPASTRIAN",
+        "nombre": "ERIK DAMIAN",
+        "apellido": "PASTRIAN SILVA",
+        "email": "",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "18931455-8",
+        "password": "$2a$08$KqBJUoS/XfKx9vPbqqv1juGAtzYaD3/lHncpktXU8lxo5unqcCH2G",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "MVIDELA",
+        "nombre": "MANUEL ESTEBAN",
+        "apellido": "VIDELA BUSTAMANTE",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "16943580-4",
+        "password": "$2a$08$WZd3mipJEGUnxdVnrouORupwIElriqW1agz7RrvoRXBmwQXXe957a",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JCARO",
+        "nombre": "JULIO",
+        "apellido": "CARO GUZMAN",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "17746250-0",
+        "password": "$2a$08$0XRyqjmriz94pfb0UTPUIuRBpb8t9oz9033v4Hr1eZPDCc2qp4tJC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JSORIANO",
+        "nombre": "JUAN FRANCISCO",
+        "apellido": "SORIANO MORAGA",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "15532444-9",
+        "password": "$2a$08$pncQRNcwwHC0Pq03v/U69.NEQ8Ho5pIWndIGqqOwWT3uHQv4VV/7q",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "GSOTOZ",
+        "nombre": "GABRIEL ANDRES",
+        "apellido": "SOTO ZUÑIGA",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15497473-3",
+        "password": "$2a$08$y4zzrmxKdzKLjdCPCwf/beCiozG/va0fkzxE/Q6Nwy6h7Y7/JCKdO",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "MREYESM",
+        "nombre": "MAURICIO ANDRES",
+        "apellido": "REYES MORENO",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15532458-9",
+        "password": "$2a$08$fSvY2cNjWxBgf5MeNTzmOOeK19KCwCDGZmFyKLq994g1wIcedl.HO",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JSEPULVEDAJ",
+        "nombre": "JOSE EUGENIO",
+        "apellido": "SEPULVEDA JORQUERA",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16261085-6",
+        "password": "$2a$08$ml4HQAEd8IupvmH2k0ip5.hnb3uiWhRjWtjxmGGzb1eRsdcbsW3iG",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "GRIQUELME",
+        "nombre": "GEOVANNI NICOLAS",
+        "apellido": "RIQUELME LEAL",
+        "email": "opperalillo@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "17451270-1",
+        "password": "$2a$08$6y2UXyUdSLiwoMmCmAfKK.TNp9uacSwmAgNP7B9WqewnHl9.cTYyG",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EAMPUERO",
+        "nombre": "ELIANA DEL CARMEN",
+        "apellido": "AMPUERO MELLA",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "14275412-6",
+        "password": "$2a$08$rXSRat2u4yZVb.xAUcwIuedXuzQ6TVo/ArPlEKJcngj.6wv7zfXnG",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JGALLEGUILLH",
+        "nombre": "JAVIERA CATALINA",
+        "apellido": "GALLEGUILLOS HUENULEF",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "18163289-5",
+        "password": "$2a$08$9ZP5EkqYno2JLsRZbCwHb.BxCFnBCNpqsT0SRypVp/q5SVc1qAkq.",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "SMONDACA",
+        "nombre": "SERGIO ANTONIO",
+        "apellido": "MONDACA MOYA",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "15622413-8",
+        "password": "$2a$08$/MZhEVZtgyoyPCPhmHhSE.1X3SsDuINmc6/vV.LYtL4jCSZGT2jVe",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JVALDENEGROC",
+        "nombre": "JOSE GUILLERMO",
+        "apellido": "VALDENEGRO CUEVAS",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "15623583-0",
+        "password": "$2a$08$oVN1iZTFEqTgAgpFCBpkxO/g7i.UHsqpVK/qR54./iIL/z.s03O8u",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "RMANZO",
+        "nombre": "RUPERTO ESTEBAN",
+        "apellido": "MANZO GUZMAN",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16577288-1",
+        "password": "$2a$08$.EmIYoQ2w9vX3lZchfyeyuqNx/txrl3rMRg56lmwVPqLzznlDRP7C",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JCERDA",
+        "nombre": "JONATHAN ESTEBAN",
+        "apellido": "CERDA MALLEA",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16619997-2",
+        "password": "$2a$08$X8RxaZJq0mxDM2D57b1dSeMPbKqR.l/6RirMw3mVnYLbsfflWbQWe",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JSEPULVEDAQ",
+        "nombre": "JUAN JOSE",
+        "apellido": "SEPULVEDA QUIJADA",
+        "email": "oppocillas@agrosuper.com ",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "18487825-9",
+        "password": "$2a$08$sONoRZpSeZFSTqvmGfIVwOLXB7q8ERBGvEV24woEv80diwHkXeWtm",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JAROMAN",
+        "nombre": "JOSE ANTONIO",
+        "apellido": "ROMAN SOTO",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "19019245-8",
+        "password": "$2a$08$EbW/v07y8KxQNBXmd7t.euhz/7No5SbAacehpXAAEqiGhfeTvULpW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "DYANEZE",
+        "nombre": "DIEGO PHILIP",
+        "apellido": "YAÑEZ ESPINOZA",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "AUXILIAR DE OPERACIONESU1",
+        "rut": "19591926-7",
+        "password": "$2a$08$3hRfet9mDAlc5i.9cPGrFedNunnAXJ9Ek/AGJbJuSpdZX7g4NSyxi",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": false
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "DSANCHEZ",
+        "nombre": "DARIO",
+        "apellido": "SANCHEZ AGUIRRE",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "JEFE PLANTA TRATAMIENTOU1",
+        "rut": "13344688-5",
+        "password": "$2a$08$QvM83gnHzSbQsvx0P.8Ame44JFJJPpiIB2zJnvY.SgBQ/Vv5XJLLW",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "AFERNANDEZM",
+        "nombre": "ANGEL ERNESTO",
+        "apellido": "FERNANDEZ MASIAS",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "13947305-1",
+        "password": "$2a$08$Sy/vAVu2xZI9X.vydCQ3CeZsIItuUGOjooJfD8DVBAcF/OYfinUKC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "BNAVARRETE",
+        "nombre": "BRUNO ALEXI",
+        "apellido": "NAVARRETE CASTRO",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "16882354-1",
+        "password": "$2a$08$chBv4st7eH4Y1hzerXX0.OgmZ5LAzgg.qJze7cheziNCIa.D6ZLMS",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "EVARGAS",
+        "nombre": "ERICK ALEXANDER",
+        "apellido": "VARGAS MONTANARES",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "18044242-1",
+        "password": "$2a$08$7O4tk/AeB/6tpOfD1Uin.u0W34HGwTgrm6CErY/S5hgg6Y80MWPpC",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "FHERRERA",
+        "nombre": "FRANCO ANTONIO",
+        "apellido": "HERRERA ESCOBAR",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "OPERADOR SISTEMA TRATAMIENTOU1",
+        "rut": "19264513-1",
+        "password": "$2a$08$VqHLyoTWC3qgrZLzpLLiK.HcyMXPkw5lnWA51a.ockpJN/VE.1Lr.",
+        "isAdmin": false,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": false,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "AEMENESES",
+        "nombre": "ARIEL ESTEBAN",
+        "apellido": "MENESES TORO",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "COORDINADOR GESTIONU1",
+        "rut": "13084979-2",
+        "password": "$2a$08$JiSofw22Eu3oYNHaljOtwOD2IMkVVi6mKI0awk/bIlsQ1e56fk246",
+        "isAdmin": true,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "SMONDACA",
+        "nombre": "JAIME",
+        "apellido": "RIOS CORREA",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "GERENTE CERDOS",
+        "rut": "0-0",
+        "password": "$2a$08$WiujlRDZQtEGRe1GDsbh/.uokHZrw3kRKMiYhn6cpWsNyUyjer3ki",
+        "isAdmin": true,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "HSANCHEZ",
+        "nombre": "HECTOR ALFONSO",
+        "apellido": "SANCHEZ MUÑOZ",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "JEFE AREA TRATAMIENTOU1",
+        "rut": "10353277-9",
+        "password": "$2a$08$7a4Cbp7plQnNCve7RSmox.ouUSXJX7N8VdfOlTJty0yUw.UZEQB02",
+        "isAdmin": true,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "JJOFRE",
+        "nombre": "JUAN CARLOS",
+        "apellido": "JOFRE PARADA",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "JEFE CONSTRUCCION Y MANTENIMIENTOU1",
+        "rut": "14145038-7",
+        "password": "$2a$08$CRjeQB8ZfUpaic9GhCdgUONJ6Ax4gAw7mRzxklQZGiDY2B55s9pTS",
+        "isAdmin": true,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "usuario": "FHERMAN",
+        "nombre": "FERNANDO",
+        "apellido": "HERMAN HERRERA",
+        "email": "operaplantaramirana@agrosuper.com",
+        "cargo": "SUBGERENTE BIOCORNECHE",
+        "rut": "14119854-8",
+        "password": "$2a$08$Gr9nH88flqIUFF0KzeHm8OEVn81cgX2s79I9t93jj.AqSSdg/eh6m",
+        "isAdmin": true,
+        "instalaciones": [
+            {
+                "instalacion": "PLA RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA VALDEBENITO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA MANGA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA MAITENLAHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA TANTEHUE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "PLA LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG RAMIRANA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG POCILLAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG PERALILLO",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LA ESTRELLA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG CORNECHE",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG SANTA ROSA",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            },
+            {
+                "instalacion": "BDG LAS PALMAS",
+                "permisos": {
+                    "leer": true,
+                    "escribir": true,
+                    "editar": true
+                }
+            }
+        ],
+        "disabled": false
+    }
+]
